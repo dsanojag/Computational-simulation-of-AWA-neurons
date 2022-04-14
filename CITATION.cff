@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Computational simulation of AWA neurons and
+  olfaction multi-neuron analysis for detection of
+  all-or-none action potentials in the C. elegans
+message: cite
+type: software
+authors:
+  - given-names: Diego Sanoja Garcia
+    name-particle: Diego
+    family-names: Sanoja Garcia
+    email: diegosanojaa@gmail.com
+    affiliation: University Carlos III of Madrid
